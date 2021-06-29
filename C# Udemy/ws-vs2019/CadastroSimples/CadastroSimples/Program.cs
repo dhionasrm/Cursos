@@ -15,7 +15,7 @@ namespace CadastroSimples
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             
             Console.WriteLine("Entre com seu último sobrenome, idade e altura");
-            string[ ] vet = Console.ReadLine().Split(' ');
+            string[] vet = Console.ReadLine().Split(' ');
             string sobrenome = vet[0];
             int idade = int.Parse(vet[1]);
             double altura = double.Parse(vet[2], CultureInfo.InvariantCulture);
