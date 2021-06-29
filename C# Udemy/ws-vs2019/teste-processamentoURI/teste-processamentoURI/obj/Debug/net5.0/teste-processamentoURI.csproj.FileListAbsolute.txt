@@ -1,0 +1,16 @@
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\bin\Debug\net5.0\teste-processamentoURI.exe
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\bin\Debug\net5.0\teste-processamentoURI.deps.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\bin\Debug\net5.0\teste-processamentoURI.runtimeconfig.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\bin\Debug\net5.0\teste-processamentoURI.runtimeconfig.dev.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\bin\Debug\net5.0\teste-processamentoURI.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\bin\Debug\net5.0\ref\teste-processamentoURI.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\bin\Debug\net5.0\teste-processamentoURI.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.csproj.AssemblyReference.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.AssemblyInfoInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.AssemblyInfo.cs
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.csproj.CoreCompileInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\ref\teste-processamentoURI.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\teste-processamentoURI\teste-processamentoURI\obj\Debug\net5.0\teste-processamentoURI.genruntimeconfig.cache
