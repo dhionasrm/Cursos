@@ -1,0 +1,16 @@
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\bin\Debug\net5.0\curso.exe
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\bin\Debug\net5.0\curso.deps.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\bin\Debug\net5.0\curso.runtimeconfig.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\bin\Debug\net5.0\curso.runtimeconfig.dev.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\bin\Debug\net5.0\curso.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\bin\Debug\net5.0\ref\curso.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\bin\Debug\net5.0\curso.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.csproj.AssemblyReference.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.AssemblyInfoInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.AssemblyInfo.cs
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.csproj.CoreCompileInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\ref\curso.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\testes-io\curso\obj\Debug\net5.0\curso.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\bin\Debug\net5.0\Primeiro.exe
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\bin\Debug\net5.0\Primeiro.deps.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\bin\Debug\net5.0\Primeiro.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\bin\Debug\net5.0\ref\Primeiro.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\bin\Debug\net5.0\Primeiro.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\ref\Primeiro.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\Primeiro\ConsoleApp1\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache

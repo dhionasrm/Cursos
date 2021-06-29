@@ -1,0 +1,16 @@
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.exe
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.deps.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.runtimeconfig.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.runtimeconfig.dev.json
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\bin\Debug\net5.0\ref\CadastroSimples.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.csproj.AssemblyReference.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.AssemblyInfoInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.AssemblyInfo.cs
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\ref\CadastroSimples.dll
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.pdb
+C:\Users\dhionas.magalhaes\Documents\Meus Projetos\Cursos\C# Udemy\ws-vs2019\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.genruntimeconfig.cache
